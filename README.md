@@ -1,2 +1,2 @@
 # fcbarcelona
-Bienvenido al gestor de lesionados del FC Barcelona
+Bienvenido al gestor de partidos y lesionados del FC Barcelona.
