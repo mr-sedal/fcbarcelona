@@ -1,0 +1,288 @@
+{
+  "plantel": [
+    {
+      "dorsal": 2,
+      "nombre": "J. Cancelo",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 3,
+      "nombre": "Balde",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 4,
+      "nombre": "R. Araujo",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 5,
+      "nombre": "Cubars\u00ed",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 6,
+      "nombre": "Gavi",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 7,
+      "nombre": "Ferran",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 8,
+      "nombre": "Pedri",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 9,
+      "nombre": "Lewandowski",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 10,
+      "nombre": "Lamine Yamal",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 11,
+      "nombre": "Raphinha",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 13,
+      "nombre": "Joan Garcia",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 14,
+      "nombre": "Rashford",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 15,
+      "nombre": "Christensen",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 16,
+      "nombre": "Fermin",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 17,
+      "nombre": "M. Casad\u00f3",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 18,
+      "nombre": "Gerard Mart\u00edn",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 20,
+      "nombre": "Olmo",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 21,
+      "nombre": "F. De Jong",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 22,
+      "nombre": "Bernal",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 23,
+      "nombre": "Kounde",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 24,
+      "nombre": "Eric",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 25,
+      "nombre": "Szczesny",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 26,
+      "nombre": "Jofre",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 28,
+      "nombre": "Roony",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 29,
+      "nombre": "A. Fern\u00e1ndez",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 30,
+      "nombre": "Guillermo",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 31,
+      "nombre": "Kochen",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 33,
+      "nombre": "Eder Aller",
+      "lesion": "N/A"
+    }
+  ],
+  "lesionados": [],
+  "disponibles": [
+    {
+      "dorsal": 2,
+      "nombre": "J. Cancelo",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 3,
+      "nombre": "Balde",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 4,
+      "nombre": "R. Araujo",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 5,
+      "nombre": "Cubars\u00ed",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 6,
+      "nombre": "Gavi",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 7,
+      "nombre": "Ferran",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 8,
+      "nombre": "Pedri",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 9,
+      "nombre": "Lewandowski",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 10,
+      "nombre": "Lamine Yamal",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 11,
+      "nombre": "Raphinha",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 13,
+      "nombre": "Joan Garcia",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 14,
+      "nombre": "Rashford",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 15,
+      "nombre": "Christensen",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 16,
+      "nombre": "Fermin",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 17,
+      "nombre": "M. Casad\u00f3",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 18,
+      "nombre": "Gerard Mart\u00edn",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 20,
+      "nombre": "Olmo",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 21,
+      "nombre": "F. De Jong",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 22,
+      "nombre": "Bernal",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 23,
+      "nombre": "Kounde",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 24,
+      "nombre": "Eric",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 25,
+      "nombre": "Szczesny",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 26,
+      "nombre": "Jofre",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 28,
+      "nombre": "Roony",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 29,
+      "nombre": "A. Fern\u00e1ndez",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 30,
+      "nombre": "Guillermo",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 31,
+      "nombre": "Kochen",
+      "lesion": "N/A"
+    },
+    {
+      "dorsal": 33,
+      "nombre": "Eder Aller",
+      "lesion": "N/A"
+    }
+  ],
+  "partidos": []
+}
